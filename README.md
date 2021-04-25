@@ -18,7 +18,7 @@ I intend to build a complete frontend based Android application on the latter pr
 The Android application, with the help of standard Regex Library in Kotlin, can check the Validation of strings belonging to the following 16 Classes/Categories:
 
 - Date: Date in the Format of DD-MM-YYYY
-- HTML Tag: HTML tag, eg: "<code/>"
+- HTML Tag: HTML tag
 - URL: Https or htts encrypted URL, e.g. “https://www/geeksforgeeks.org”
 - Aadhar Card Number: Indian Valid 12 digit Aadhar card number, e.g. “3675 9834 6012”
 - Licence Card Number: Indian Licence Number, e.g. “HR06 19850034761”
