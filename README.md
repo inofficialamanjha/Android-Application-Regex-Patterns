@@ -32,7 +32,7 @@ The Android application, with the help of standard Regex Library in Kotlin, can 
 - Indian Pin Code: Pin Code of 6 digits, e.g. 132103
 - IFSC Code: Indian IFSC Code, e.g.: SBIN0125620
 - PAN Card Number: Indian Pan Card Number, e.g. BNZAA2318J
-- YouTube Video Id: ID in the format of “ https://www.youtube.com/channel/UC{22 Alphanumeric characters} “
+- YouTube Video Id: ID in the format of  https://www.youtube.com/channel/UC{22 Alphanumeric characters}
 
 The Application entirely relies on Frontend and uses Gradle build automation tools for Software development. Other dependencies such as Nested Scroll View, Card-Based Layout, Vertical Linear Layout ,and Automatic slider, are also used to implement the GUI successfully.
 
