@@ -92,7 +92,9 @@ Functions :
 - Pan Card Number : [A-Z]{5}[0-9]{4}[A-Z]{1}
 - Youtube Channel ID : http(?:s)?:\\/\\/(?:m.)?(?:www\\.)?youtu(?:\\.be\\/|be\\.com\\/(?:watch\\?(?:feature=youtu.be\\&)?v=|v\\/|embed\\/|user\\/(?:[\\w#]+\\/)+))([^&#?\\n]+)
 
-# GUI![GUI](https://user-images.githubusercontent.com/75173703/115987210-af233480-a5d1-11eb-82de-50cd2a861036.PNG)
+# GUI
+
+![GUI](https://user-images.githubusercontent.com/75173703/115987210-af233480-a5d1-11eb-82de-50cd2a861036.PNG)
 
 # CONCLUSIONS
 
