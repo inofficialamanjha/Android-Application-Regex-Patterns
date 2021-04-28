@@ -104,4 +104,4 @@ Functions :
 # REFERENCES
 
 - [Regex Standard API Library documentation](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.text/-regex/)
-- [Regular Expressions - Wikipedia](https://en.wikipedia.org/wiki/Regular_expression#:~:text=A%20regular%20expression%20(shortened%20as,strings%2C%20or%20for%20input%20validation)
+- [Regular Expressions - Wikipedia](https://en.wikipedia.org/wiki/Regular_expression)
